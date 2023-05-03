@@ -165,8 +165,8 @@
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>0.0.1</string>
+	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string>https://www.kopiro.me</string>
+	<string>https://github.com/kopiro/vscode-project-manager-for-alfred</string>
 </dict>
 </plist>
